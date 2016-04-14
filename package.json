@@ -1,0 +1,19 @@
+{
+  "name": "terrible-passwords",
+  "version": "0.0.0",
+  "description": "A simple listing of really horrible passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinmathews/terrible-passwords.git"
+  },
+  "author": "Colin Mathews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinmathews/terrible-passwords/issues"
+  },
+  "homepage": "https://github.com/colinmathews/terrible-passwords#readme"
+}
